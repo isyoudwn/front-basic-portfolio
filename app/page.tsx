@@ -229,7 +229,7 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-semibold mb-6">Education</h3>
               <div className="bg-gray-800 p-6 rounded-lg mb-6">
-                <h4 className="text-xl font-medium mb-2">경기대학교, 컴퓨터공학부</h4>
+                <h4 className="text-xl font-medium mb-2">경기대학교, 컴퓨터공학부 (4.02/4.5)</h4>
                 <p className="text-gray-400 mb-4">2020 - 2024</p>
                 <ul className="list-disc list-inside text-gray-300 space-y-2">
                   <li>운영체제, 알고리즘, 자료구조 등 기초 CS 지식 학습</li>
